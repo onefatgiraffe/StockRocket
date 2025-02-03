@@ -61,6 +61,13 @@ You waive your right to a jury trial and agree to individual arbitration (no cla
 We may update these Terms at any time. Continued use of the App after changes are made constitutes acceptance of the updated Terms. If you do not agree with the changes, you must stop using the App.
 
 10. Privacy Policy
-Your use of the App is also governed by our https://stockrocket.onefatgiraffe.com/privacy, which explains how we collect, use, and protect your personal data.
+Your use of the App is also governed by our https://stockrocket.onefatgiraffe.com/privacy, which explains how we collect, use, and protect your personal data
+
+11. Contact Information
+For support or inquiries, please contact us:
+    support@onefatgiraffe.com
+    https://onefatgiraffe.com
+
+For full Terms & Conditions, visit: https://stockrocket.onefatgiraffe.com/terms
 
 Last Updated: March 28th, 2025
