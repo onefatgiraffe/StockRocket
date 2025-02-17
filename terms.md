@@ -11,12 +11,12 @@ If a free trial is offered, it will automatically convert to a paid subscription
 No refunds are provided for unused portions of a subscription period unless required by law.</li>
 <li> Features & Services
 With a Pro Subscription, you get access to:
-
-Full stock lists beyond the free version’s limited view.
-Instant notifications for significant stock movements.
-Momentum history data to track key stocks over time.
+<ol>
+<li>Full stock lists beyond the free version’s limited view.</li>
+<li>Instant notifications for significant stock movements.</li>
+<li>Momentum history data to track key stocks over time.</li>
 We do not guarantee the accuracy, completeness, or availability of data at all times.
-</li>
+</ol></li>
 3. No Financial or Investment Advice
 The App provides informational stock market insights only and does not constitute:
 </ul>
