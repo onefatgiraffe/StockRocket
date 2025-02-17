@@ -1,4 +1,4 @@
-# Terms & Conditions
+<h1>Terms & Conditions</h1>
 
 Welcome to Stock Rocket (“the App”), provided by One Fat Giraffe Inc. (“Company,” “we,” “our,” or “us”). By downloading, accessing, or using the App, you agree to these Terms & Conditions (“Terms”). If you do not agree, please do not use the App.
 
