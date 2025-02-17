@@ -85,7 +85,7 @@
     <p>For any privacy-related questions or concerns, contact us at:</p>
     <ul>
         <li>📧 <a href="mailto:support@onefatgiraffe.com">support@onefatgiraffe.com</a></li>
-        <li>🌐 <a href="https://stockrocket.onefatgiraffe.com/privacy">https://stockrocket.onefatgiraffe.com/privacy</a> (Full Privacy Policy Available Here)</li>
+        <li>🌐 <a href="https://stockrocket.onefatgiraffe.com/privacy">(Full Privacy Policy Available Here)</a> </li>
     </ul>
 
     <p>By using <strong>[App Name]</strong>, you agree to this Privacy Policy.</p>
