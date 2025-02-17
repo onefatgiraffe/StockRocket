@@ -12,7 +12,7 @@
 
     <h2>1. Subscription & Payment</h2>
     <ul>
-        <li>The App offers a Pro Subscription with additional features, available as a monthly ($2.99) or annual ($29.99) plan.</li>
+        <li>The App offers a Pro Subscription with additional features, available as a monthly ($2.99 USD) or annual ($29.99 USD) plan.</li>
         <li>Your subscription automatically renews unless canceled at least 24 hours before the renewal date.</li>
         <li>Payment is charged to your Apple ID account at confirmation of purchase.</li>
         <li>You can manage or cancel your subscription anytime in your App Store settings.</li>
