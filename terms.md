@@ -1,25 +1,25 @@
 <h1>Terms & Conditions</h1>
 
 Welcome to Stock Rocket (“the App”), provided by One Fat Giraffe Inc. (“Company,” “we,” “our,” or “us”). By downloading, accessing, or using the App, you agree to these Terms & Conditions (“Terms”). If you do not agree, please do not use the App.
-
-1. Subscription & Payment
+<ul>
+<li>Subscription & Payment
 The App offers a Pro Subscription with additional features, available as a monthly ($2.99) or annual ($29.99) plan.
 Your subscription automatically renews unless canceled at least 24 hours before the renewal date.
 Payment is charged to your Apple ID account at confirmation of purchase.
 You can manage or cancel your subscription anytime in your App Store settings.
 If a free trial is offered, it will automatically convert to a paid subscription unless canceled before the trial ends.
-No refunds are provided for unused portions of a subscription period unless required by law.
-2. Features & Services
+No refunds are provided for unused portions of a subscription period unless required by law.</li>
+<li> Features & Services
 With a Pro Subscription, you get access to:
 
 Full stock lists beyond the free version’s limited view.
 Instant notifications for significant stock movements.
 Momentum history data to track key stocks over time.
 We do not guarantee the accuracy, completeness, or availability of data at all times.
-
+</li>
 3. No Financial or Investment Advice
 The App provides informational stock market insights only and does not constitute:
-
+</ul>
 Financial advice
 Investment recommendations
 Trading strategies
