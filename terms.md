@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <h1>Terms & Conditions</h1>
+    <h2>Terms & Conditions</h2>
 
     <p>Welcome to <strong>Stock Rocket</strong> (“the App”). These Terms & Conditions (“Terms”) govern your access and use of the App, provided by <strong>One Fat Giraffe Inc.</strong> (“Company,” “we,” “our,” or “us”). By using the App, you agree to these Terms. If you do not agree, please do not use the App.</p>
 
