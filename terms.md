@@ -15,8 +15,9 @@ With a Pro Subscription, you get access to:
 <li>Full stock lists beyond the free version’s limited view.</li>
 <li>Instant notifications for significant stock movements.</li>
 <li>Momentum history data to track key stocks over time.</li>
+</ol>
 We do not guarantee the accuracy, completeness, or availability of data at all times.
-</ol></li>
+</li>
 3. No Financial or Investment Advice
 The App provides informational stock market insights only and does not constitute:
 </ul>
