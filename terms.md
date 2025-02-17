@@ -7,7 +7,6 @@
 <body>
 
     <h1>Terms & Conditions</h1>
-    <p><strong>Last Updated:</strong> [Date]</p>
 
     <p>Welcome to <strong>[App Name]</strong> (“the App”). These Terms & Conditions (“Terms”) govern your access and use of the App, provided by <strong>[Your Company Name]</strong> (“Company,” “we,” “our,” or “us”). By using the App, you agree to these Terms. If you do not agree, please do not use the App.</p>
 
@@ -45,16 +44,21 @@
     </ul>
 
     <h2>6. Privacy Policy</h2>
-    <p>Your data privacy is important to us. Please review our <a href="[Your Website URL]">Privacy Policy</a> to understand how we collect, use, and protect your information.</p>
+    <p>Your data privacy is important to us. Please review our <a href="https://stockrocket.onefatgiraffe.com/privacy">Privacy Policy</a> to understand how we collect, use, and protect your information.</p>
 
     <h2>7. Contact Information</h2>
     <p>For support or inquiries, please contact us at:</p>
     <ul>
-        <li>📧 <a href="mailto:[Your Support Email]">[Your Support Email]</a></li>
-        <li>🌐 <a href="[Your Website URL]">[Your Website URL]</a></li>
+        <li>📧 <a href="mailto:support@onefatgiraffe.com">support@onefatgiraffe.com</a></li>
+        <li>🌐 <a href="https://stockrocket.onefatgiraffe.com/">https://stockrocket.onefatgiraffe.com/</a></li>
     </ul>
 
-    <p>For full Terms & Conditions, visit: <a href="[Your Website URL]">[Your Website URL]</a></p>
+    <p>For full Terms & Conditions, visit: <a href="https://stockrocket.onefatgiraffe.com/terms">https://stockrocket.onefatgiraffe.com/terms</a></p>
+
+    <p><strong>Last Updated: Feb 16th, 2025</strong></p>
+
+    
+
 
 </body>
 </html>
@@ -133,5 +137,4 @@ For support or inquiries, please contact us:
 
 For full Terms & Conditions, visit: <a>https://stockrocket.onefatgiraffe.com/terms</a>
 
-Last Updated: Feb 16th, 2025
 
