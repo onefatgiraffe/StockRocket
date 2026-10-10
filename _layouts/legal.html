@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {% include site-head.html %}
+</head>
+<body>
+  {% include site-nav.html %}
+
+  <main class="legal">
+    <div class="wrap">
+      <article class="prose">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </article>
+    </div>
+  </main>
+
+  {% include site-footer.html %}
+</body>
+</html>

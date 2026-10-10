@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {% include site-head.html %}
+</head>
+<body>
+  {% include site-nav.html %}
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">Momentum tracker for iPhone</p>
+        <h1>{{ page.tagline }}</h1>
+        <p class="lede">See the NASDAQ stocks with the strongest momentum, the biggest gainers and the sharpest decliners, refreshed daily and weekly.</p>
+        <div class="cta">
+          <a class="btn btn-store" href="{{ site.app_store_url }}">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M16.400 12.600c0-2.400 2-3.500 2.100-3.600-1.100-1.700-2.900-1.900-3.500-1.900-1.500-.2-2.900.9-3.700.9-.8 0-1.900-.9-3.200-.8-1.600 0-3.100.9-4 2.400-1.700 3-.4 7.400 1.200 9.800.8 1.200 1.800 2.500 3 2.400 1.200 0 1.700-.8 3.200-.8s1.900.8 3.200.8c1.300 0 2.200-1.200 3-2.400.9-1.400 1.300-2.700 1.300-2.800-.1 0-2.600-1-2.600-4Zm-2.400-7c.7-.8 1.100-1.900 1-3-1 0-2.100.6-2.800 1.400-.6.700-1.200 1.800-1 2.900 1.100.1 2.100-.5 2.800-1.300Z"/></svg>
+            <span><small>Download on the</small>App Store</span>
+          </a>
+        </div>
+
+        <figure class="device" aria-label="Stock Rocket on iPhone showing top gainers and a stock detail chart">
+          <img src="{{ '/assets/screenshots/01.png' | relative_url }}" alt="Stock Rocket showing a list of top gainers next to a price chart and key metrics for a stock" width="2000" height="1407" fetchpriority="high">
+        </figure>
+      </div>
+    </section>
+
+    <section class="section" id="features">
+      <div class="wrap">
+        <h2>Everything you need to find the move</h2>
+        <p class="section-lede">Four views, one clear picture of what the market is doing right now.</p>
+        <div class="grid">
+          <article class="card">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M13 2 4 14h6l-1 8 9-12h-6l1-8Z"/></svg>
+            <h3>High momentum stocks</h3>
+            <p>Spot NASDAQ names with strong momentum, updated daily and weekly.</p>
+          </article>
+          <article class="card">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 17 6-6 4 4 8-8M15 7h6v6"/></svg>
+            <h3>Gainers, movers and decliners</h3>
+            <p>Instantly see which stocks are climbing and which are sliding.</p>
+          </article>
+          <article class="card">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V10M10 20V4M16 20v-8M22 20H2"/></svg>
+            <h3>Charts and key metrics</h3>
+            <p>Price charts from one day to year to date, plus 52-week and daily highs and lows.</p>
+          </article>
+          <article class="card">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h12a2 2 0 0 1 2 2v14H7a2 2 0 0 1-2-2V4Zm14 6h2v8a2 2 0 0 1-2 2M9 8h6M9 12h6M9 16h4"/></svg>
+            <h3>Market news</h3>
+            <p>Catch the headlines behind the moves without leaving the app.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section showcase">
+      <div class="wrap showcase-grid">
+        <div class="showcase-copy">
+          <h2>Scan fast. Dig in deeper.</h2>
+          <p>Switch between Momentum, Gainers, Movers and Declines with one tap. Open any stock for its chart and key metrics, all in a clean, dark interface built for speed.</p>
+        </div>
+        <div class="crops">
+          <div class="crop crop-list" role="img" aria-label="Gainers list in Stock Rocket" style="background-image:url('{{ '/assets/screenshots/01.png' | relative_url }}')"></div>
+          <div class="crop crop-detail" role="img" aria-label="Stock detail with chart and key metrics in Stock Rocket" style="background-image:url('{{ '/assets/screenshots/01.png' | relative_url }}')"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section pro" id="pro">
+      <div class="wrap">
+        <p class="eyebrow">Stock Rocket Pro</p>
+        <h2>Go further with Pro</h2>
+        <div class="grid grid-2">
+          <article class="card card-pro">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+            <h3>Detailed stock list</h3>
+            <p>An extensive list of high momentum stocks with in-depth analytics.</p>
+          </article>
+          <article class="card card-pro">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 8a6 6 0 1 1 12 0c0 7 3 8 3 8H3s3-1 3-8ZM10 20a2 2 0 0 0 4 0"/></svg>
+            <h3>Notifications</h3>
+            <p>Timely alerts on major movements.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section final">
+      <div class="wrap">
+        <h2>Ready to find your next mover?</h2>
+        <div class="cta">
+          <a class="btn btn-store" href="{{ site.app_store_url }}">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M16.400 12.600c0-2.400 2-3.500 2.100-3.600-1.100-1.700-2.900-1.900-3.500-1.900-1.500-.2-2.900.9-3.700.9-.8 0-1.900-.9-3.200-.8-1.600 0-3.100.9-4 2.400-1.700 3-.4 7.400 1.200 9.800.8 1.200 1.800 2.500 3 2.400 1.200 0 1.700-.8 3.200-.8s1.900.8 3.200.8c1.300 0 2.200-1.200 3-2.400.9-1.400 1.300-2.700 1.300-2.800-.1 0-2.600-1-2.600-4Zm-2.400-7c.7-.8 1.100-1.900 1-3-1 0-2.100.6-2.800 1.400-.6.700-1.200 1.800-1 2.900 1.100.1 2.100-.5 2.800-1.300Z"/></svg>
+            <span><small>Download on the</small>App Store</span>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  {% include site-footer.html %}
+</body>
+</html>
