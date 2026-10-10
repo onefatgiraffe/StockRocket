@@ -1,12 +1,7 @@
 <header class="nav">
   <div class="wrap nav-inner">
     <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
-      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
-        <rect width="32" height="32" rx="8" fill="#0a1f14"/>
-        <path d="M16 5c4 3 6 7.500 5.500 12.500L19 20h-6l-2.500-2.500C10 12.500 12 8 16 5Z" fill="#1ee37f"/>
-        <circle cx="16" cy="13" r="2" fill="#000"/>
-        <path d="M13 20l-3 4 3.500-1M19 20l3 4-3.500-1" fill="#1ee37f"/>
-      </svg>
+      <img class="brand-mark" src="{{ '/assets/icon.png' | relative_url }}" alt="" width="30" height="30">
       <span>{{ site.title }}</span>
     </a>
     <a class="btn btn-small" href="{{ site.app_store_url }}">Download</a>
